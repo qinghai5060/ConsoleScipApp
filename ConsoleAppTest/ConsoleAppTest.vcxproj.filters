@@ -26,10 +26,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="stdafx.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="ConsoleAppTest.cpp">
+    <ClCompile Include="scip-maxsat.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
